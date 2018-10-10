@@ -1,2 +1,0 @@
-Amount of even numbers is bigger uneven numbers:
-577 > 423
